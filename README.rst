@@ -1,13 +1,16 @@
-# gilbert-plugin-assetbundle
+gilbert-plugin-assetbundle
+==========================
+
 Gilbert plugin to provide AssetBundle content type.
 
-# Overview
+Overview
+--------
 
-This povides a content type for Gilbert that uses
-[webassets](https://pypi.org/project/webassets/) to bundle
-assets.
+This povides a content type for Gilbert that uses `webassets
+<https://pypi.org/project/webassets/>`_ to bundle assets.
 
-# Usage
+Usage
+-----
 
 The `AssetBundle` content type is a `Page` with the following parameters:
 
